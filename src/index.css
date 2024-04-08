@@ -1,0 +1,18 @@
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+    .element-center {
+        @apply border-2	border-red-600 border-solid;
+    
+     
+    }
+}
+body{
+    background-color: #1c2230;
+
+}
